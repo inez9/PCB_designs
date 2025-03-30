@@ -1,0 +1,21 @@
+[DesignatorManager]
+LogicalDesignator0=MOSFET2
+LogicalPartID0=1
+DocumentName0=Hotfire_1.SchDoc
+ChannelName0=Hotfire_1
+UniqueID0=\UFSAUXRZ
+PhysicalDesignator0=U?
+PhysicalDesignatorLocked0=0
+LogicalDesignator1=MOSFET1
+LogicalPartID1=1
+DocumentName1=Hotfire_1.SchDoc
+ChannelName1=Hotfire_1
+UniqueID1=\ZTUKOECV
+PhysicalDesignator1=U?
+PhysicalDesignatorLocked1=0
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+
+
